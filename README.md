@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Web form screenshot](https://github.com/urielemak/believer-rest-service/blob/main/public/believer-frontend-capture.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
